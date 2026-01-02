@@ -29,11 +29,11 @@ Each model was evaluated using train/test splits and accuracy metrics to compare
 
 ### 1- Data Preprocessing
 
-        Handled categorical variables using one-hot encoding
+* Handled categorical variables using one-hot encoding
 
-Prevented data leakage by separating features and target early
+* Prevented data leakage by separating features and target early
 
-Sampled 1% of the dataset to reduce computational cost
+* Sampled 1% of the dataset to reduce computational cost
 
 Feature Selection
 
